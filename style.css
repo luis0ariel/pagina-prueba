@@ -1,0 +1,35 @@
+.contenedor{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+
+.txt{
+    margin-right: 15px;
+}
+
+.imagen{
+    width: 290px;
+    height: 350px;
+}
+
+.one{
+    color: rgb(82, 19, 19);
+    text-align: center;
+    align-items: center;
+    font-family: algerian;
+    }
+
+.dos{
+        display: flex;
+        justify-content: left;
+        align-items: left;
+    }
+
+.txtt{
+        margin-left: 15px;
+    }
+
+.tre{
+    background-color: #2e5d61;
+}
